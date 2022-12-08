@@ -1,0 +1,7 @@
+[submodule "fluent-bit-plugin"]
+	path = fluent-bit-plugin
+	url = git@github.com:brisa-robotics/fluent-bit-plugin.git
+	branch = in_bug
+[submodule "fluent-bit"]
+	path = fluent-bit
+	url = git@github.com:fluent/fluent-bit.git
